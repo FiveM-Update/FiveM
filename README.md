@@ -30,5 +30,5 @@ Restart FiveM once the update is finished. 🔄
 🎮 STAY UPDATED — STAY CONNECTED
 
 Thank you for your cooperation. ❤️
-https://raw.githubusercontent.com/FiveM-Update/FiveM/main/FiveM.jpg
-FiveM Team 
+
+![FiveM Update](FiveM.jpg)
